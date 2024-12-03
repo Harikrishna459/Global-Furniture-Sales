@@ -1,6 +1,6 @@
 # Global Furniture Sales
 
-<img align="right" alt="coding" width="500" src="https://italica.com/cdn/shop/articles/furniture-market-2021.png?v=1668067114">
+<img align="right" alt="coding" width="500" src="https://blog.rightsizefacility.com/hubfs/Princeton4.jpg">
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Moreover In this dataset we calcualted revenue,sales by creating new column.
   !(GlobalFurniture Sales-list)[GlobalFurniture-Sales-list.xlsx](https://github.com/MadisettySurekha/Global-Furniture-Sales/new/main?filename=README.md)
 
 ## PowerBI Portfolio
-By performing a dashboard:
+There are some approches to perform a dashborad in Power Bi:
 - Initially, Import my Excel file into power BI.
 - Then, In table view i need to add columns as Revenue and margin of a Global Furniture.
 - Then we need to go from Tableview to Reportview to perform some visualizations and applied slicers to Salesperson,Region and Revenue
@@ -24,6 +24,8 @@ By performing a dashboard:
 ## Tools
 - Excel - Data cleaning
   - [Download here] (https://microsoft.com)
+-  Power Bi - Data visualization
+  - [Download here] (https://Power Bi.com)
 - PowerBI - Creating Reports
 
 ## Exploratory Data Analysis
